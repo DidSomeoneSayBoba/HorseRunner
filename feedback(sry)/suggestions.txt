@@ -1,0 +1,7 @@
+Possibly utilize acceleration instead of the standard movement of 1 m per key
+Possible acceleration formula: k(1 + 1/cn)^cn
+(1 + 1/n)^n approaches e, 2.718
+c and k are constants that basically modify how much and how fast the acceleration do its thing
+ n = rhythm streak
+b.(see image)
+If you don’t want acceleration, potentially make the increments less than 1m; 1m movement may look somewhat jank on the screen
